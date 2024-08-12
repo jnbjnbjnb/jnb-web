@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: black
+}
+h1 {
+  color: red;
+  font-family: courier;
+  font-size: 180%;
+}
+p  {  
+  color: white;
+  font-family: courier;
+  font-size: 160%;
+}
+</style>
+</head>
+<body>
+
+<h1>JNB-WEB</h1>
+<p>JNB-WEB is an online journal by Jonah nebrida buchanan.</p>
+
+</body>
+</html>
+
